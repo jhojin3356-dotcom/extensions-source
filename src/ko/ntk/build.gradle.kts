@@ -1,5 +1,5 @@
 plugins {
-    id("eu.kanade.tachiyomi.extension")
+    id("lib-multisrc")
 }
 
 ext {
