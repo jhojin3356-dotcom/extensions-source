@@ -1,3 +1,7 @@
+plugins {
+    id("eu.kanade.tachiyomi.extension")
+}
+
 ext {
     extName = "NTK"
     pkgNameSuffix = "ko.ntk"
